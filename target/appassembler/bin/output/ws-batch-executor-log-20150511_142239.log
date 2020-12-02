@@ -1,0 +1,220 @@
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Início da aplicação
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Início de leitura do arquivo de propriedades
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Arquivo de propriedades lido com sucesso.
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Início de montagem e processamento de requests baseado no arquivo de entrada:
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Montagem de request linha 1 do arquivo de entrada.
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1106629510  alterado com sucesso.
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:39 main INFO  batchExecutorLogFile - Execução de request linha 1 do arquivo de entrada.
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 1 do arquivo de entrada.
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 1 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Montagem de request linha 2 do arquivo de entrada.
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000904  alterado com sucesso.
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:40 main INFO  batchExecutorLogFile - Execução de request linha 2 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 2 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 2 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Montagem de request linha 3 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000924  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Execução de request linha 3 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 3 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 3 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Montagem de request linha 4 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000898  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Execução de request linha 4 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 4 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 4 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Montagem de request linha 5 do arquivo de entrada.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1107173010  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Venda  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Cancelled  alterado com sucesso.
+> 11/05/2015 14:22:41 main INFO  batchExecutorLogFile - Execução de request linha 5 do arquivo de entrada.
+> 11/05/2015 14:22:42 main ERROR batchExecutorLogFile - Execução com erro do request na linha 5 do arquivo de entrada.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com erro.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 5 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Montagem de request linha 6 do arquivo de entrada.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000996  alterado com sucesso.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Execução de request linha 6 do arquivo de entrada.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 6 do arquivo de entrada.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 6 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Montagem de request linha 7 do arquivo de entrada.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000991  alterado com sucesso.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:42 main INFO  batchExecutorLogFile - Execução de request linha 7 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 7 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 7 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Montagem de request linha 8 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000988  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Execução de request linha 8 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 8 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 8 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Montagem de request linha 9 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000994  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Execução de request linha 9 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 9 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 9 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Montagem de request linha 10 do arquivo de entrada.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150001008  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:43 main INFO  batchExecutorLogFile - Execução de request linha 10 do arquivo de entrada.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 10 do arquivo de entrada.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 10 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Montagem de request linha 11 do arquivo de entrada.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1107173010  alterado com sucesso.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Aluguel  alterado com sucesso.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: New  alterado com sucesso.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Execução de request linha 11 do arquivo de entrada.
+> 11/05/2015 14:22:44 main ERROR batchExecutorLogFile - Execução com erro do request na linha 11 do arquivo de entrada.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com erro.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 11 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Montagem de request linha 12 do arquivo de entrada.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150001018  alterado com sucesso.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:44 main INFO  batchExecutorLogFile - Execução de request linha 12 do arquivo de entrada.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 12 do arquivo de entrada.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 12 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Montagem de request linha 13 do arquivo de entrada.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150000936  alterado com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Execução de request linha 13 do arquivo de entrada.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 13 do arquivo de entrada.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 13 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Montagem de request linha 14 do arquivo de entrada.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150001074  alterado com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:45 main INFO  batchExecutorLogFile - Execução de request linha 14 do arquivo de entrada.
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 14 do arquivo de entrada.
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 14 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Montagem de request linha 15 do arquivo de entrada.
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150001278  alterado com sucesso.
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:46 main INFO  batchExecutorLogFile - Execução de request linha 15 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 15 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 15 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Montagem de request linha 16 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 150001076  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Execução de request linha 16 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 16 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 16 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Montagem de request linha 17 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1106224110  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Execução de request linha 17 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 17 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 17 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Montagem de request linha 18 do arquivo de entrada.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1107142310  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:47 main INFO  batchExecutorLogFile - Execução de request linha 18 do arquivo de entrada.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 18 do arquivo de entrada.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 18 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Montagem de request linha 19 do arquivo de entrada.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1110164910  alterado com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Execução de request linha 19 do arquivo de entrada.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 19 do arquivo de entrada.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 19 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Montagem de request linha 20 do arquivo de entrada.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1106710310  alterado com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:48 main INFO  batchExecutorLogFile - Execução de request linha 20 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 20 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 20 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Montagem de request linha 21 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1107072610  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Execução de request linha 21 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 21 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 21 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Montagem de request linha 22 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1107173010  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Equipamento  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Execução de request linha 22 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Execução com sucesso do request na linha 22 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 22 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Montagem de request linha 23 do arquivo de entrada.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #ID_CONTA# com valor: 1107173012  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #CATEGORIA_EQUIPAMENTO# com valor: Objeto  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Campo #ITENS_ATIVOS# com valor: Active  alterado com sucesso.
+> 11/05/2015 14:22:49 main INFO  batchExecutorLogFile - Execução de request linha 23 do arquivo de entrada.
+> 11/05/2015 14:22:50 main ERROR batchExecutorLogFile - Execução com erro do request na linha 23 do arquivo de entrada.
+> 11/05/2015 14:22:50 main INFO  batchExecutorLogFile - Verificar arquivo de saída do log de valores processados com erro.
+> 11/05/2015 14:22:50 main INFO  batchExecutorLogFile - Finalização de montagem e execução de request na linha 23 do arquivo de entrada.
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:50 main INFO  batchExecutorLogFile - Relatório de execução: 
+--------------------------------------------------------------------------------
+Status da Execução: SUCESSO
+Total de registros processados: 23
+Total de registros processados com sucesso: 20
+Total de registros processados com erro: 3
+--------------------------------------------------------------------------------
+> 11/05/2015 14:22:50 main INFO  batchExecutorLogFile - Fim da execução, verifique os arquivos de saída.

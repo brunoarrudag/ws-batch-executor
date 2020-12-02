@@ -1,0 +1,25 @@
+> 11/05/2015 15:15:10 main INFO  batchExecutorLogFile - Início da aplicação
+> 11/05/2015 15:15:10 main INFO  batchExecutorLogFile - Início de leitura do arquivo de propriedades
+> 11/05/2015 15:15:10 main INFO  batchExecutorLogFile - Início de montagem e processamento de requests baseado no arquivo de entrada:
+--------------------------------------------------------------------------------
+> 11/05/2015 15:15:10 main ERROR batchExecutorLogFile - Arquivo de propriedades não encontrado, verificar arquivo de properties.
+Erro:
+Cannot invoke method get() on null object
+--------------------------------------------------------------------------------
+> 11/05/2015 15:15:10 main ERROR batchExecutorLogFile - Arquivo de entrada não encontrado, verificar arquivo de properties.
+Erro:
+Cannot invoke method get() on null object
+--------------------------------------------------------------------------------
+> 11/05/2015 15:15:10 main ERROR batchExecutorLogFile - 
+--------------------------------------------------------------------------------
+A execução foi abortada devido ao erro:
+Cannot invoke method get() on null object
+--------------------------------------------------------------------------------
+> 11/05/2015 15:15:10 main INFO  batchExecutorLogFile - Relatório de execução: 
+--------------------------------------------------------------------------------
+Status da Execução: ERRO
+Total de registros processados: 0
+Total de registros processados com sucesso: 0
+Total de registros processados com erro: 0
+--------------------------------------------------------------------------------
+> 11/05/2015 15:15:10 main INFO  batchExecutorLogFile - Fim da execução, verifique os arquivos de saída.
