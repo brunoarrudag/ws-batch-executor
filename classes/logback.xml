@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<configuration>
+	
+	<!-- Mácara para data utilizada como sufixo nos arquivos de log. -->
+	<timestamp key="byDate" datePattern="yyyyMMdd_HHmmss" />
+	
+	<!-- Appender para exibição do log no console de execução do aplicativo. --> 
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- encoders are by default assigned the type ch.qos.logback.classic.encoder.PatternLayoutEncoder -->
+		<encoder>
+			<pattern>> %d{dd/MM/yyyy HH:mm:ss} %-5level %logger - %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+	
+	<!-- Appender para gravação no arquivo de saída do log de processamento. --> 
+	<appender name="logFile" class="ch.qos.logback.core.FileAppender">
+		<file>output/ws-batch-executor-log-${byDate}.log</file>
+		<encoder>
+			<pattern>> %d{dd/MM/yyyy HH:mm:ss} %thread %-5level %logger - %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<!-- Appender para gravação no arquivo de saída do log de valores processados com sucesso. -->
+	<appender name="logSuccessFile" class="ch.qos.logback.core.FileAppender">
+		<file>output/ws-batch-executor-successLog-${byDate}.log</file>
+		<encoder>
+			<pattern>> %d{dd/MM/yyyy HH:mm:ss} %thread %-5level %logger - %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<!-- Appender para gravação no arquivo de saída do log de valores processados com erro. -->
+	<appender name="logErrorFile" class="ch.qos.logback.core.FileAppender">
+		<file>output/ws-batch-executor-errorLog-${byDate}.log</file>
+		<encoder>
+			<pattern>> %d{dd/MM/yyyy HH:mm:ss} %thread %-5level %logger - %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<!-- Logger para exibição no console da aplicação. -->
+	<logger name="batchExecutorShowConsole" level="INFO">
+		<appender-ref ref="STDOUT" />
+	</logger>
+	
+	<!-- Logger para arquivo de saída do log de processamento. -->
+	<logger name="batchExecutorLogFile" level="INFO">
+		<appender-ref ref="logFile" />
+	</logger>
+	
+	<!-- Logger para arquivo de saída do log de valores processados com sucesso. -->
+	<logger name="batchExecutorLogSuccessFile" level="INFO">
+		<appender-ref ref="logSuccessFile" />
+	</logger>
+	
+	<!-- Logger para arquivo de saída do log de valores processados com erro. -->
+	<logger name="batchExecutorLogErrorFile" level="INFO">
+		<appender-ref ref="logErrorFile" />
+	</logger>
+	
+	<!-- Logger default. -->
+	<root level="info" >
+	</root>
+</configuration>
